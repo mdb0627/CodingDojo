@@ -1,0 +1,26 @@
+#container{
+    width:350px;
+    background-color: lightgrey;
+    margin: 0 auto;
+}
+h1{
+  color: yellow;
+  text-align: left;
+}
+
+h3 {
+    color: turquoise;
+    text-align: left;
+}
+
+form input,
+form select,
+form textarea{
+    width: 200px;
+    display: inline-block;
+}
+
+#submit{
+    margin-left: 150px;
+    width: 80px;
+}
